@@ -1,9 +1,8 @@
 # RSP-model
-Risk sharing pool model
 
-50000 observations in total.
+*Identified bad rated risks that needed to be put into the risk sharing pool based on the given data;*
 
-Identified bad rated risks that needed to be put into the risk sharing pool based on the given data;
+The original dataset has 50000 observations and 22 variables.
 
 Prepared the dataset by transforming target variables and filling up missing values (denoted by 1);
 
